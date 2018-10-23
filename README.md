@@ -103,4 +103,9 @@ $async->await(balance(0))->then('var_export');
 Now the code is clean and looks like synchronous, but runs asynchronously for better performance getting us 
 best of both worlds :) 
 
+
+
 For more examples and integration with the frameworks take a look at [examples folder](examples)
+
+
+#Readme
